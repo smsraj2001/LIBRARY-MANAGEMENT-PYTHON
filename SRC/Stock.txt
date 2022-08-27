@@ -1,0 +1,43 @@
+Harry Potter,Jk Rowling,30,₹2
+Start With Why,Simon Sinek,20,₹1.5
+Programming With Python,John Smith,25,₹1.5
+Sherlock Holmes,Arthur Conan Doyle,25,₹2
+Who moved my cheese,Spencer Johnson,30,₹1
+Two lives,Vikram Seth,40,₹1.5
+Wings of Fire:An Autobiography,50,₹3
+Joseph Anton,Sulman Rushdie (Autobiography),20,₹2
+The Sahara Testaments,Tade Ipadeola,25,₹1
+Narendra Modi: A Political Biography,Andy Marino,30,₹1.5
+My Unforgettable Memories,Mamata Banerjee,15,₹3
+Rationalized Roman for Kashmiri,Dr. R L Bhat,10,₹2.5
+Strictly Personal, Manmohan and Gursharan,Daman Singh,30,₹1.5
+The Wrong Enemy: America in Afghanistan(2001‐ 2014),Carlotta Gall,15,₹3
+Lal Bahadur Shastri: Lessons in Leadership,Pavan Choudary,10,₹2.5
+Walking With Giants,G. Ramachandran,25,₹1
+Crusader or Conspirator? Coalgate and other Truths,PC Parakh,30,₹1.5
+The Accidental Prime Minister: the making and unmaking of Manmohan Singh,Sanjaya Baru,15,₹3
+God of Antarctica,Master Yashvardhan Shukla (At the age of 13),30,₹1.5
+My Years with Rajiv and Sonia,R.D.Pradhan,10,₹2.5
+KhushwantnamaThe Lessons of My Life,Khushwant singh,25,₹1
+Syntheism Creating God in The Internet Age,Alexander Bard,30,₹1.5
+One Life is Not Enough,Natwar Singh,10,₹2.5
+The Lives of Others,Neel Mukherjee,25,₹1
+My Music My Life,Pt Ravi Shankar,25,₹1
+I am Malala,Malala Yousufzai and Christina Lamb,10,₹2.5
+A Man and A Motorcycle:How Hamid Karzai Came to Power,Bette Dam,30,₹1.5
+True Colours,Adam Gilchrist,15,₹3
+Assassination of Rajiv Gandhi: An Inside Job?,Faraz Ahmad,25,₹1
+The God of Small Things,Arundhati Roy,10,₹2.5
+Interpreter of Maladies,Jhumpa Lahiri,15,₹3
+And then One Day: A Memoir,Nasiruddin Shah (Autobiography),30,₹1.5
+Unaccustomed Earth,Jhumpa Lahiri,25,₹1
+Lowland,Jhumpa Lahiri,30,₹1.5
+Truth Always Prevails,Sadruddin Hashwani,25,₹1
+Playing It My Way,Sachin Tendulkar and Boria Mazumder,30,₹1.5
+Matilda,Roald Dahl,2,₹3
+Ramayana,Valmiki,4,₹30
+Mahabharata,Veda Vyasa,4,₹30
+Panchatantra,Vishnu Sharma,1,₹333
+Merchant Of Venice,William Shakespeare,2,₹120
+WORD POWER,SMR,2,₹1000
+Matilda,Roald Dahl,2,₹300
